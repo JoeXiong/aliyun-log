@@ -4,6 +4,7 @@
   "keywords": ["log", "aliyun", "sls"],
   "homepage": "https://github.com/zhangzhongxian/AliyunLog",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "zhangzhongxian",
