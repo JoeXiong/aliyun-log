@@ -4,7 +4,6 @@
   "keywords": ["log", "aliyun", "sls"],
   "homepage": "https://github.com/zhangzhongxian/AliyunLog",
   "license": "MIT",
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "zhangzhongxian",
@@ -14,8 +13,6 @@
   "require": {
     "php": ">=7.1.7",
     "ext-json": "*"
-  },
-  "require-dev": {
   },
   "autoload": {
     "psr-4": {
